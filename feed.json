@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ggoraa.github.io",
+    "description": "",
+    "home_page_url": "https://ggoraa.github.io",
+    "feed_url": "https://ggoraa.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "GGorAA"
+    },
+    "items": [
+        {
+            "id": "https://ggoraa.github.io/welcome.html",
+            "url": "https://ggoraa.github.io/welcome.html",
+            "title": "Welcome!",
+            "author": {
+                "name": "GGorAA"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-17T01:00:25+03:00",
+            "date_modified": "2020-09-17T01:00:25+03:00"
+        }
+    ]
+}
