@@ -10,28 +10,28 @@
     },
     "items": [
         {
-            "id": "https://ggoraa.github.io/euclight.html",
-            "url": "https://ggoraa.github.io/euclight.html",
+            "id": "https://ggoraa.github.io/euclight/",
+            "url": "https://ggoraa.github.io/euclight/",
             "title": "EUCLight",
             "author": {
                 "name": "GGorAA"
             },
             "tags": [
             ],
-            "date_published": "2020-09-17T01:05:42+03:00",
-            "date_modified": "2020-09-17T01:05:42+03:00"
+            "date_published": "2020-09-17T01:10:34+03:00",
+            "date_modified": "2020-09-17T01:10:34+03:00"
         },
         {
-            "id": "https://ggoraa.github.io/welcome.html",
-            "url": "https://ggoraa.github.io/welcome.html",
+            "id": "https://ggoraa.github.io/welcome/",
+            "url": "https://ggoraa.github.io/welcome/",
             "title": "Welcome!",
             "author": {
                 "name": "GGorAA"
             },
             "tags": [
             ],
-            "date_published": "2020-09-17T01:05:42+03:00",
-            "date_modified": "2020-09-17T01:05:42+03:00"
+            "date_published": "2020-09-17T01:10:34+03:00",
+            "date_modified": "2020-09-17T01:10:34+03:00"
         }
     ]
 }
