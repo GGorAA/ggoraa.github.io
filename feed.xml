@@ -10,6 +10,18 @@
     <id>https://ggoraa.github.io</id>
 
     <entry>
+        <title>EUCLight</title>
+        <author>
+            <name>GGorAA</name>
+        </author>
+        <link href="https://ggoraa.github.io/euclight.html"/>
+        <id>https://ggoraa.github.io/euclight.html</id>
+
+        <updated>2020-09-17T01:05:42+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
         <title>Welcome!</title>
         <author>
             <name>GGorAA</name>
@@ -17,7 +29,7 @@
         <link href="https://ggoraa.github.io/welcome.html"/>
         <id>https://ggoraa.github.io/welcome.html</id>
 
-        <updated>2020-09-17T01:00:25+03:00</updated>
+        <updated>2020-09-17T01:05:42+03:00</updated>
             <summary></summary>
         <content></content>
     </entry>

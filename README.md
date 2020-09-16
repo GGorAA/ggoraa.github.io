@@ -1,1 +1,0 @@
-# ggoraa.github.io
