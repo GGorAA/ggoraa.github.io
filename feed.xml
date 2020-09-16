@@ -1,36 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>ggoraa.github.io</title>
-    <link href="https://ggoraa.github.io/feed.xml" rel="self" />
-    <link href="https://ggoraa.github.io" />
+    <title>ggoraa.github.io/euclight</title>
+    <link href="https://ggoraa.github.io/euclight/feed.xml" rel="self" />
+    <link href="https://ggoraa.github.io/euclight" />
     <updated>1970-01-01T03:00:00+03:00</updated>
     <author>
         <name>GGorAA</name>
     </author>
-    <id>https://ggoraa.github.io</id>
+    <id>https://ggoraa.github.io/euclight</id>
 
-    <entry>
-        <title>EUCLight</title>
-        <author>
-            <name>GGorAA</name>
-        </author>
-        <link href="https://ggoraa.github.io/euclight/"/>
-        <id>https://ggoraa.github.io/euclight/</id>
-
-        <updated>2020-09-17T01:12:32+03:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Welcome!</title>
-        <author>
-            <name>GGorAA</name>
-        </author>
-        <link href="https://ggoraa.github.io/welcome/"/>
-        <id>https://ggoraa.github.io/welcome/</id>
-
-        <updated>2020-09-17T01:12:32+03:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
 </feed>
